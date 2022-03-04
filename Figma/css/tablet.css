@@ -1,0 +1,46 @@
+#container  h1{
+    font-size: 2em;
+    margin-top: 50px;
+}
+
+#top-paragraphs  p{
+    font-size: 0.8em;
+}
+
+#top-paragraphs{
+    width: 52%;
+    margin-top: 30px;
+}
+
+#top-paragraphs  #first-para{
+    margin-bottom: 24px;
+}
+
+#top-part #first-photo{
+    margin-top: 40px;
+    margin-left: 45px;
+}
+
+#bottom-part{
+    justify-content: flex-start;
+    margin-top: 20px;
+}
+
+#bottom-part  div{
+    width: 20%;
+    margin-left: 0%;
+    margin-right: 5%;
+}
+
+#second-photo{
+    display: none;
+}
+
+h4{
+    font-size: 0.95em;
+}
+
+#bottom-part  p{
+    font-size: 0.8em;
+    margin-top: 8px;
+}

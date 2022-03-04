@@ -1,0 +1,61 @@
+#container{
+    width: 84%;
+}
+
+#container h1{
+    font-size: 1.7em;
+    margin-top: 50px;
+}
+
+#top-part{
+    display: flex;
+    flex-direction: column;
+}
+
+#top-paragraphs{
+    width: 100%;
+    margin-top: 20px;
+}
+
+#top-part p{
+    font-size: 0.725em;
+}
+
+#top-paragraphs  #first-para{
+    margin-bottom: 24px;
+}
+
+#top-part #first-photo{
+    width: 55%;
+    text-align: center;
+}
+
+#first-photo  img{
+    width: 100%;
+    margin: 0 auto;
+}
+
+#bottom-part{
+    justify-content: flex-start;
+    flex-wrap: wrap;
+    margin-top: 30px;
+}
+
+#bottom-part  div{
+    width: 28%;
+    margin-left: 0%;
+    margin-right: 6%;
+}
+
+#second-photo{
+    display: none;
+}
+
+h4{
+    font-size: 0.75em;
+}
+
+#bottom-part  p{
+    font-size: 0.6em;
+    margin-top: 8px;
+}
